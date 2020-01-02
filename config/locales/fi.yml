@@ -54,7 +54,7 @@ fi:
       content: "Järjestelmässä ei ole yhtään %{resource_name}:ia vielä."
       link: "Luo ensimmäinen"
     dropdown_actions:
-      button_label: "Acciones"
+      button_label: "Toiminnot"
     batch_actions:
       button_label: "Toimet"
       default_confirmation: "Oletko varma, että haluat tehdä tämän?"
